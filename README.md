@@ -3,4 +3,4 @@ Cards with cars
 
 ## Результат вы можете посмотреть тут 
 
-[Карточки автомобидей](https://efremovva.github.io/сars-cards/)
+[Карточки автомобилей](https://efremovva.github.io/сars-cards/)
